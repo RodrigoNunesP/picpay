@@ -9,6 +9,11 @@ As listas podem ser encontradas noa arquivos fornecidos para download (listarele
 Deve-se apresentar também a solução para a importação dos 8 milhões de usuários. 
 Sugestão: Não enviar apenas o dump do banco de dados
 
+## Ferramentas
+ - PHP 7.3.3 
+ - PHPUnit 7.5.8 
+ - Laravel Framework 5.8.10
+
 ## Lista de procedimentos:
 
 - Criado um projeto Laravel utilizando linguagem PHP7 e mySql para base de dados;
