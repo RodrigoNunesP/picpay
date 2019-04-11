@@ -18,3 +18,12 @@ Sugestão: Não enviar apenas o dump do banco de dados
 
 - Criado um projeto Laravel utilizando linguagem PHP7 e mySql para base de dados;
 
+## Funcionalidades operacionais
+
+- Criada base de clientes;
+- Testes unitarios para CRUD de Clientes;
+- Testes de Features de CRUD de Clientes;
+- Criada uma rota para atualizar base de clientes via arquivo csv utilizando Queue;
+- Testes unitarios para subida de arquivo;
+
+- Teste de feature para inserção das linhas de registros ainda com problemas...  

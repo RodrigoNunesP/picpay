@@ -14,3 +14,4 @@ use Illuminate\Http\Request;
 */
 
 Route::resource('client', 'ClientController');
+Route::resource('file', 'FileController');
